@@ -1,3 +1,5 @@
+Note: This repo is no longer maintained, as I haven't worked with or had access to HDInsight for several years now. Archiving.
+
 This example demonstrates how to read and write from Azure Event Hub using an Apache Storm topology (written in Java,) on an Azure HDInsight cluster.
 
 ##What does it do?
